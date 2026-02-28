@@ -47,13 +47,10 @@ button:hover {
 .image-box {
     margin-top: 24px;
     padding: 20px;
-    border: 2px dashed #bbb;
-    border-radius: 10px;
     min-height: 180px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #fafafa;
 }
 
 .image-box img {
